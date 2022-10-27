@@ -5,7 +5,9 @@
 
 ### What I have used for front-end web development skills
 ✅  Master the react functional components and the reusability
+
 ✅  Master the fundamental CSS properties including flex and Taiilwind CSS
+
 ✅  Master how to place media queries for responsiveness on all the devices
 
 
